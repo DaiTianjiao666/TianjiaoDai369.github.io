@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tianjiao Dai"
 description              : "Associate professor "
-repository               : "TianjiaoDai369/TianjiaoDai369.github.io"
+#repository               : "TianjiaoDai369/TianjiaoDai369.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
